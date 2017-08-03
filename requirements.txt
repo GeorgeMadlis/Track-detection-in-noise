@@ -1,0 +1,8 @@
+Keras==2.0.6
+matplotlib==1.5.1
+numpy==1.13.1
+python==3.5.2
+
+Tested on Ubuntu 16.04 LT
+
+
